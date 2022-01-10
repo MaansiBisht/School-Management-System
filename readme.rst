@@ -1,22 +1,17 @@
 ###################
-What is CodeIgniter
+What is School-Manangement System ?
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Education is central to development. It is one of the most powerful instruments for reducing poverty and inequality and lays a foundation for sustained economic growth. With this aim currently our government has given special emphasis to the educational sector and school improvement activities such as continuous professional development for teachers, training and upgrading teachers and capacitating schools with manpower and materials are among the major actions which have been taken in both primary and secondary schools. In order to facilitate and simplify these actions one of the major tools is to have an automated school management system.  
+
+School Management System(SMS) consists of tasks such as registering students, attendance record keeping to control absentees, producing report cards, producing official transcript, preparing time tables and producing different reports.
 
 *******************
-Release Information
+Web Framework
 *******************
+CodeIgniter
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+CodeIgniter is a PHP-driven framework, containing a grab-bag of libraries, helpers, plug-ins and other resources, that takes care of many of the more complex procedures and functions for which PHP is famous. CodeIgniter does all the heavy lifting for you while maintaining high performance. It will simplify PHP syntax, streamline the code underlying your web pages, and—best of all—have you churning out dynamic, interactive, professional websites in no time.
 
 **************************
 Changelog and New Features
@@ -38,30 +33,8 @@ issues, as well as missing features.
 ************
 Installation
 ************
-
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
 ***************
 Acknowledgement
 ***************
